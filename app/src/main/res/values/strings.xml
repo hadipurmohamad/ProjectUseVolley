@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="test">hadi purmohamad</string>
+    <string name="button">ok</string>
+    <string name="appName">Trivia</string>
+    <string name="questiosn_text">Are you like the spagetti ?</string>
+    <string name="question_count">Question : 10/50</string>
+    <string name="true_btn">Yes</string>
+    <string name="false_btn">No</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_previous">Previous</string>
+    <string name="showAnswer" />
+</resources>
